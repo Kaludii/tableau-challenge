@@ -5,6 +5,8 @@
 # Site
 Click [Here](https://kaludii.github.io/tableau-challenge/ "Here") To View The Tableau Dashboard!
 
+![CitiBike_2021_Title](https://github.com/Kaludii/tableau-challenge/blob/main/images/CitiBike_2021_Title.png?raw=true)
+
 ## Introduction:
 
 The year 2021 was one of the most challenging years for many industries and businesses due to the ongoing covid-19 pandemic. This project analyzes data from [CitiBike](https://www.citibikenyc.com/system-data), a popular bike-sharing service in new york city, to understand how the pandemic affected usage and patterns in 2021. There were a total of 27 million rides in 2021, but 500k random rows were chosen from the total dataset in this project. With the use of tableau visualizations, we will dive into the data to see the trends and usage throughout the year to provide a deeper understanding of how the pandemic impacted CitiBike usage.
